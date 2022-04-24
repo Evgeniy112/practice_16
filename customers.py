@@ -1,4 +1,4 @@
-from cats import Customers
+from classes import Customers
 
 costomer_1 = Customers('Иван','Петров','Москва',50)
 costomer_2 = Customers('Владимир','Зайцев','Кострома',50)

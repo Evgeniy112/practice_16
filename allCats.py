@@ -1,4 +1,4 @@
-from cats import Cat
+from classes import Cat
 
 c1 = Cat('Барон', 'Кот', 2)
 c2 = Cat('Муся', 'Кошка', 5)
